@@ -1,0 +1,5 @@
+---
+ mongoClient: "mongodb://localhost:27017"
+ database: "db_19062022"
+ jisOrdersInputFile: "20211217__JIS_order.txt"
+ ordersCalculationOutput: "orders_results_19_09_2022.txt"
